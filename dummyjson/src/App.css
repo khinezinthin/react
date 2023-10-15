@@ -1,0 +1,23 @@
+*{
+  box-sizing: border-box;
+}
+/* navbar */
+nav ul li:hover{
+  border-bottom: 2px solid rgb(160, 20, 20);
+}
+.active{
+  border-bottom: 2px solid rgb(160, 20, 20);
+}
+
+.active2{
+  color: green;
+  font-weight: bold;
+  font-size: large;
+}
+
+.img{
+  transition: 1000ms;
+}
+.img:hover{
+  transform: scale(1.1);
+}

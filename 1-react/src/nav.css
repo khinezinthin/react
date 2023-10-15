@@ -1,0 +1,13 @@
+.nav-container{
+    display: flex;
+}
+.nav-container li{
+    list-style: none;
+    margin-right: 20px;
+}
+a{
+    text-decoration: none;
+}
+.active{
+    color: red;
+}

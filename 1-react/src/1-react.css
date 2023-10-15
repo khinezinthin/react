@@ -1,0 +1,17 @@
+/* h1{
+  color: pink;
+}
+
+.heading{
+  background-color: palegreen;
+  color: black;
+} */
+
+.card{
+  border: 1px solid black;
+  width: 200px;
+  padding: 10px;
+}
+.title{
+  color: red;
+}
